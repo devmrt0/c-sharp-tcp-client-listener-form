@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp-ip client listener", "tcp-ip client listener.csproj", "{0D4FCD64-8030-4715-BE64-62FFE88091CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4FCD64-8030-4715-BE64-62FFE88091CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4FCD64-8030-4715-BE64-62FFE88091CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4FCD64-8030-4715-BE64-62FFE88091CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4FCD64-8030-4715-BE64-62FFE88091CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C3F5DED-3EB8-4904-9DEF-95D3C73A7729}
+	EndGlobalSection
+EndGlobal

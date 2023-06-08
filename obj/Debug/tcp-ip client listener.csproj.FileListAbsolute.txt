@@ -1,0 +1,10 @@
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\bin\Debug\tcp-ip client listener.exe.config
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\bin\Debug\tcp-ip client listener.exe
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\bin\Debug\tcp-ip client listener.pdb
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp-ip client listener.csproj.AssemblyReference.cache
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp_ip_client_listener.Form1.resources
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp_ip_client_listener.Properties.Resources.resources
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp-ip client listener.csproj.GenerateResource.cache
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp-ip client listener.csproj.CoreCompileInputs.cache
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp-ip client listener.exe
+C:\Users\Mert Aygün\source\repos\tcp-ip client listener\obj\Debug\tcp-ip client listener.pdb
